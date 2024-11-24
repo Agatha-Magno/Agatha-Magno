@@ -1,7 +1,7 @@
 
 
 ## 🚀 Sobre mim
-Olá! Sou Theo da Silva Magno, atualmente estudante de TADS no IFTO - Campus Araguaína. Atualmente focando em estudar Front-End e JS.
+Olá! Sou Agatha da Silva Magno, atualmente estudante de TADS no IFTO - Campus Araguaína e desenvolvedora Front End na Compass UOL.
 
 
 
